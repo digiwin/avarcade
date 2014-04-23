@@ -1,0 +1,1 @@
+Powered by AV Arcade - Copyright AV Scripts 2006-<?php $today = date("Y"); echo $today;?>

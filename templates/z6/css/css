@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lora'), local('Lora-Regular'), url(https://themes.googleusercontent.com/static/fonts/lora/v7/5-AYViExptypIdFoLKAxTA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lora Bold'), local('Lora-Bold'), url(https://themes.googleusercontent.com/static/fonts/lora/v7/XpaepWHcooQHSRnzoohUng.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lora Italic'), local('Lora-Italic'), url(https://themes.googleusercontent.com/static/fonts/lora/v7/wXeMvRh7Gui36p_I04Ex6g.woff) format('woff');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oswald Regular'), local('Oswald-Regular'), url(https://themes.googleusercontent.com/static/fonts/oswald/v8/-g5pDUSRgvxvOl5u-a_WHw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Oswald Bold'), local('Oswald-Bold'), url(https://themes.googleusercontent.com/static/fonts/oswald/v8/bH7276GfdCjMjApa_dkG6T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
